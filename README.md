@@ -1,7 +1,6 @@
 ## 
 
-<div align="center"><h3>Hello🤙, Welcome to my profile!</h3>
-  </div>
+<div align="center"><h3>Hello🤙, Welcome to my profile!</h3></div>
   
   ##
   
@@ -13,7 +12,8 @@
   
    ##
   
-<div style="display: inline_block", align="center"><br>
+  <div align="center"><h3>My Skills🖥</h3></div>
+  <div style="display: inline_block", align="center"><br>
   <img align="center" alt="Wes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
