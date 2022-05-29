@@ -1,4 +1,4 @@
-## <div align="center"><h3>Hello🤙, wellcome to my profile</h3>
+## <div align="center"><h3>Hello🤙, Welcome to my profile!</h3>
   </div>
 <div align="center">
   <a href="https://github.com/buenowes">
