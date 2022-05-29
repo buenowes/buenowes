@@ -2,8 +2,6 @@
 
 <div align="center"><h3>Hello 🤙, Welcome to my profile!</h3></div>
   
-  ##
-  
 <div align="center">
   <a href="https://github.com/buenowes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buenowes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
